@@ -1,7 +1,7 @@
 # Compound Interest Calculator
 
 Graphic visualization of earnings with compound interest while investing <br>
-Made using python and **matplotlib** & **pysimplegui** libraries
+Made with python 3 using **matplotlib** & **pysimplegui** libraries
 
 ## Usage
 ```
